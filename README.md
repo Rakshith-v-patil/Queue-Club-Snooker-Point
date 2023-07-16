@@ -1,4 +1,4 @@
-# [Queue-Club-Snooker-Point](https://github.com/Rakshith-v-patil/Queue-Club-Snooker-Point)
+# [Queue-Club-Snooker-Point](https://rakshith-v-patil.github.io/Queue-Club-Snooker-Point/)
 A template for finding your way into one of the best pool game area out in the world
 
 This Website is created to handle everything from reservations to tournament booking, making new friends via the community forum, enticing membership features, and game learning.
