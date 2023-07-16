@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rakshith-v-patil/Queue-Club-Snooker-Point/static/css/main.57b8d799.css",
+    "main.js": "/Rakshith-v-patil/Queue-Club-Snooker-Point/static/js/main.a8343780.js",
+    "static/js/787.dcc73137.chunk.js": "/Rakshith-v-patil/Queue-Club-Snooker-Point/static/js/787.dcc73137.chunk.js",
+    "static/media/avatar.jpg": "/Rakshith-v-patil/Queue-Club-Snooker-Point/static/media/avatar.202ec5d5ef47e59db9cb.jpg",
+    "index.html": "/Rakshith-v-patil/Queue-Club-Snooker-Point/index.html",
+    "main.57b8d799.css.map": "/Rakshith-v-patil/Queue-Club-Snooker-Point/static/css/main.57b8d799.css.map",
+    "main.a8343780.js.map": "/Rakshith-v-patil/Queue-Club-Snooker-Point/static/js/main.a8343780.js.map",
+    "787.dcc73137.chunk.js.map": "/Rakshith-v-patil/Queue-Club-Snooker-Point/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57b8d799.css",
+    "static/js/main.a8343780.js"
+  ]
+}
