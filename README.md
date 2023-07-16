@@ -21,4 +21,4 @@ A Simple yet classic project done by team Enigma containing 5 students:
 
 * Aishwarya Kulkarni
 
-[Live Website](https://rakshith-v-patil.github.io/Queue-Club-Snooker-Point/)
+
