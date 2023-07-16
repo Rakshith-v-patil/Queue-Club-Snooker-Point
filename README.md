@@ -7,7 +7,7 @@ The application is created using:
 
 * React JS and chakra UI for the theme of the Website
 
-* A NoCode API which connects to the Google sheets for the subscriptions details
+* A NoCode API which connects to the Google sheets for the subscriptions details: [LINK](https://docs.google.com/spreadsheets/d/1ES_ZS5xTySnPmfbjL2ri_ymkzsBz3qfrdwSG-4oc6Jw/edit#gid=0)
 
 A Simple yet classic project done by team Enigma containing 5 students:
 
